@@ -5,6 +5,7 @@ node_modules
 *.sw*
 npm-shrinkwrap.json
 dist
+!app/ember/dist
 .tern-port
 *.DS_Store
 .cache
